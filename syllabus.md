@@ -1,5 +1,14 @@
 Quick links: [Session One](#session-one) | [Session Two](#session-two) | [Session Three](#session-three) 
 
+## Course Title 
+
+Experiments on the Embodied Web 
+
+## Course Objectives
+
+-Introduction to motion capture and other body sensing technology and theory 
+-Introductory creative coding examples for representing the body and body movement in web frameworks. 
+
 ## Course Description
 
 Today’s internet, made up of mostly text documents and two-dimensional images and videos, is the result of historical limitations in bandwidth, graphics processing and input devices. These limitations have made the internet a place where the mind goes, but the body cannot follow. Recent advances in motion capture devices, graphics processing, machine learning, bandwidth and browsers, however, are paving the way for the body to find its place online. Experiments on the Embodied Web will explore the new realm of embodied interactions in the browser across networks. The course will include discussion of influential works in the development of online embodied interaction, including the works of Kit Galloway and Sherrie Rabinowitz, Susan Kozel, and Laurie Anderson. Together we’ll explore pose detection across webRTC peer connections in p5.js and Three.js. Experience with Node, HTML and JavaScript is helpful but not required. ICM level programming experience is required.
