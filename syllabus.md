@@ -59,7 +59,7 @@ If you find yourself struggling, remember that you have many forms of support th
 ### Class Discussion Materials 
 
 - [Google Slides](https://docs.google.com/presentation/d/1vmjDEq5p21qtzI7VztvbR3D4Hpr7gPMgTlI8eGui7dg/edit?usp=sharing)
-- [Closer : performance, technologies, phenomenology, by Susan Kozel pages 92-98](/readings/closer_2.pdf)
+- [Closer : performance, technologies, phenomenology, by Susan Kozel pages 92-98](https://github.com/lisajamhoury/The-Body-Everywhere-and-Here-2021/blob/main/readings/closer_2.pdf)
 - [Plink](plink https://plink.in/r/ewah)
 - [Group Exercise Board, requires NYU Login](https://docs.google.com/presentation/d/1TLKjTbpswpaxSs-wSzYO7K5YkVjjnk66vv29iTtHBQ0/edit?usp=sharing)
 
@@ -130,9 +130,9 @@ If you find yourself struggling, remember that you have many forms of support th
 
 ## Further Reading 
 
-- [Artificial Reality by Myron Krueger, pages 91-99](/readings/artificial_reality_5.pdf)
+- [Artificial Reality by Myron Krueger, pages 91-99](https://github.com/lisajamhoury/The-Body-Everywhere-and-Here-2021/blob/main/readings/artificial_reality_5.pdf)
 - [Here/There: Telepresence, Touch, and Art at the Interface (Introduction) by Kris Paulsen](https://www.academia.edu/27070858/Here_There_Telepresence_Touch_and_Art_at_the_Interface_Introduction_https_mitpress_mit_edu_books_herethere), pages 1-10 
-- [Phenomenology of perception by Maurice Merleau-Ponty](/readings/phenomenology_of_perception_2.pdf), pages 92-94 (through "what sees and touches")
-- [The End of Average, Todd Rose, pages 1-9](/readings/end_of_avg_intro.pdf)
+- [Phenomenology of perception by Maurice Merleau-Ponty](https://github.com/lisajamhoury/The-Body-Everywhere-and-Here-2021/blob/main/readings/phenomenology_of_perception_2.pdf), pages 92-94 (through "what sees and touches")
+- [The End of Average, Todd Rose, pages 1-9](https://github.com/lisajamhoury/The-Body-Everywhere-and-Here-2021/blob/main/readings/end_of_avg_intro.pdf)
 - ["Mismatch: How Inclusion Shapes Design" Kat Holmes](https://mitpress.mit.edu/books/mismatch)
 - [Video: Design for seven billion; design for one - Kat Holmes](https://www.youtube.com/watch?v=vPH1exUrSh8)
