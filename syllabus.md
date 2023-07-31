@@ -6,8 +6,8 @@ Experiments on the Embodied Web
 
 ## Course Objectives
 
--Introduction to motion capture and other body sensing technology and theory 
--Introductory creative coding examples for representing the body and body movement in web frameworks. 
+- Introduction to motion capture and other body sensing technology and theory 
+- Introductory creative coding examples for representing the body and body movement in web frameworks. 
 
 ## Course Description
 
