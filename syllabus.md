@@ -80,7 +80,8 @@ If you find yourself struggling, remember that you have many forms of support th
 ### Class Examples
 
  - Choose a partner for this section  
- - Examples to come 
+ - Examples to come
+ - [Cat image](https://raw.githubusercontent.com/lisajamhoury/The-Body-Everywhere-and-Here-2021/main/examples/assets/cat.jpg) 
 
 ### Helpful Links, Resources, Inspo
 - [Coding Train 9.12: Local Server, Text Editor, JavaScript Console - p5.js Tutorial](https://www.youtube.com/watch?v=UCHzlUiDD10)
