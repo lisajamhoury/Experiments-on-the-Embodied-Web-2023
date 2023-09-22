@@ -69,6 +69,7 @@ If you find yourself struggling, remember that you have many forms of support th
 
 - [Google Slides](https://docs.google.com/presentation/d/1vmjDEq5p21qtzI7VztvbR3D4Hpr7gPMgTlI8eGui7dg/edit?usp=sharing)
 - [Closer : performance, technologies, phenomenology, by Susan Kozel pages 92-98](https://github.com/lisajamhoury/The-Body-Everywhere-and-Here-2021/blob/main/readings/closer_2.pdf)
+- [Closer audio](media/closer.m4a)
 - [Plink](https://plink.in/r/ewah)
 - [Group Exercise Board, requires NYU Login](https://docs.google.com/presentation/d/1TLKjTbpswpaxSs-wSzYO7K5YkVjjnk66vv29iTtHBQ0/edit?usp=sharing)
 
