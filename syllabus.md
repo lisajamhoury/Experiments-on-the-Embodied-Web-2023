@@ -83,6 +83,18 @@ If you find yourself struggling, remember that you have many forms of support th
  - Examples to come
  - [Cat image](https://raw.githubusercontent.com/lisajamhoury/The-Body-Everywhere-and-Here-2021/main/examples/assets/cat.jpg) 
 
+ ### More Examples 
+
+  - Example 1 — Posenet Keypoints | [Code](examples/week2/2_1_posenet) | [Live preview](https://body-ewah-2021.glitch.me/examples/week2/2_1_posenet/index.html) 
+  - Example 2 — Facemesh Basics | [Code](examples/week2/2_2_facemesh) | [Live preview](https://body-ewah-2021.glitch.me/examples/week2/2_2_facemesh/index.html) 
+  - Example 3 — Just face! | [Code](examples/week2/2_3_justface) | [Live preview](https://body-ewah-2021.glitch.me/examples/week2/2_3_justface/index.html) 
+ - Example 4 — Mouse Over Peer | [Code](examples/week4/4_1_mouse) | [Live preview](https://body-ewah-2021.glitch.me/examples/week4/4_1_mouse/index.html) 
+ - Example 5 — Pose Over Peer | [Code](examples/week4/4_2_pose) | [Live preview](https://body-ewah-2021.glitch.me/examples/week4/4_2_pose/index.html) 
+ - Example 6 — Video Over Peer | [Code](examples/week4/4_3_video) | [Live preview](https://body-ewah-2021.glitch.me/examples/week4/4_3_video/index.html) 
+ - Example 7 — Frame Difference Over Peer | [Code](examples/week4/4_4_frame_diff) | [Live preview](https://body-ewah-2021.glitch.me/examples/week4/4_4_frame_diff/index.html) 
+ - Example 8 — Pose Blobs over Peer | [Code](examples/week4/4_5_pose_blobs) | [Live preview](https://body-ewah-2021.glitch.me/examples/week4/4_5_pose_blobs/index.html) 
+
+
 ### Helpful Links, Resources, Inspo
 - [Coding Train 9.12: Local Server, Text Editor, JavaScript Console - p5.js Tutorial](https://www.youtube.com/watch?v=UCHzlUiDD10)
 - [Coding Train 11.3: The Pixel Array - p5.js Tutorial](https://www.youtube.com/watch?v=nMUMZ5YRxHI)
