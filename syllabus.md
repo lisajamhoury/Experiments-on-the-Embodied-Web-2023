@@ -110,22 +110,25 @@ If you find yourself struggling, remember that you have many forms of support th
 - [tfjs face landmarks documentation](https://github.com/tensorflow/tfjs-models/tree/master/face-landmarks-detection)
 - [ml5js.org](https://ml5js.org/)
 - Coding Train ml5.js: Pose Estimation with PoseNet: [7.1](https://thecodingtrain.com/learning/ml5/7.1-posenet.html) | [7.2](https://thecodingtrain.com/learning/ml5/7.2-pose-classifier.html) | [7.3](https://thecodingtrain.com/learning/ml5/7.3-pose-regression.html)
+- [Digital Dance Party by Daniel Jorssen](https://www.instagram.com/p/CASdHnMBRFt/)
+- [Me and My Shadows by Ghislaine Boddington](http://www.bodydataspace.net/projects/meandmyshadow/)
+- [Tips to improve your generative artwork](https://tylerxhobbs.com/essays/2018/tips-to-improve-your-generative-artwork)
 
 ## Session Three 
 
-### Topic: Live Coding: Peer-to-Peer, Kinect
+### Topic: Live Coding: Kinect
+
+### Class Discussion Materials 
+
+- [Google Slides](https://docs.google.com/presentation/d/1cG6J22IXCAj5GI5hGtp0XRcElfXwJ5UPbs63GLXCtNQ/edit?usp=sharing)
 
 ### Class Examples
 
  - Choose a partner for this section  
+ - [HSV to RGB](https://stackoverflow.com/questions/17242144/javascript-convert-hsb-hsv-color-to-rgb-accurately/54024653)
  - Examples to come 
 
 ### Helpful Links, Resources, Inspo
-
-#### General
-- [Digital Dance Party by Daniel Jorssen](https://www.instagram.com/p/CASdHnMBRFt/)
-- [Me and My Shadows by Ghislaine Boddington](http://www.bodydataspace.net/projects/meandmyshadow/)
-- [Tips to improve your generative artwork](https://tylerxhobbs.com/essays/2018/tips-to-improve-your-generative-artwork)
 
 #### General Kinect 
 - [How to pronounce the name of Microsoft's cloud: Azure](https://www.youtube.com/watch?v=AmP11EgEM4g)
@@ -136,7 +139,7 @@ If you find yourself struggling, remember that you have many forms of support th
 
 #### Kinectron
 - [Kinectron](https://kinectron.github.io/)
-- [Kinectron Server Version 0.3.5](https://github.com/kinectron/kinectron/releases/tag/0.3.5)
+- [Kinectron Server Version 0.3.7](https://github.com/kinectron/kinectron/releases/tag/0.3.7)
 - [Kinectron Bootcamp Install by Jake Sherwood](https://jakesherwood.com/blog/body_ewah/kinectron-install)
 - [Coding Train: Kinectron](https://www.youtube.com/watch?v=BV6xK3EOznI)
 - [More Kinectron Examples](https://kinectron.github.io/docs/example-simple-skeleton.html) | Includes [Skeleton Example](https://kinectron.github.io/docs/example-skeleton-images-windows.html) 
